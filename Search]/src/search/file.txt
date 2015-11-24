@@ -1,0 +1,2239 @@
+ 
+ The sequence of current record: 1 
+ recordType = pGWRecord 
+ servedIMSI 
+ number:401071110045366
+ pGWAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.74.7
+ chargingID = 159862312 
+ servingNodeAddress 
+ 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.6
+ accessPointNameNI = internetstatic 
+ pdpPDNType = 0x01 21 
+ servedPDPPDNAddress 
+ iPAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.68.33
+ dynamicAddressFlag = FALSE 
+ listOfTrafficVolumes 
+ 
+ qosRequested:- 
+ qosNegotiated:- 
+ dataVolumeGPRSUplink:103392 
+ dataVolumeGPRSDownlink:98304 
+ changeCondition:recordClosure 
+ changeTime:2015-07-09 14:50:55 +06:00 
+ failureHandlingContinue:- 
+ userLocationInformation:- 
+ ePCQoSInformation 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ recordOpeningTime = 2015-07-09 14:44:57 +06:00 
+ duration = 358 
+ causeForRecClosing = normalRelease 
+ diagnostics 
+ manufacturerSpecificCause:1
+ recordSequenceNumber = 2 
+ nodeID = ALUGW01 
+ recordExtensions = - 
+ localSequenceNumber = 2220901016 
+ apnSelectionMode = mSorNetworkProvidedSubscriptionVerified 
+
+ servedMSISDN 
+ number:77086350003
+ chargingCharacteristics = Normal billing 
+ chChSelectionMode = servingNodeSupplied 
+ iMSsignalingContext = - 
+ externalChargingID = - 
+ servingNodePLMNIdentifier = 40107 
+ pSFurnishChargingInformation = - 
+ servedIMEISV 
+ number:3536270450029835
+ rATType = 2 
+ mSTimeZone = GMT+06:00,NO DST 
+ userLocationInformation = 0x00 04 F1 70 04 51 07 D2 
+ cAMELChargingInformation = - 
+ listOfServiceData 
+ 
+ ratingGroup:100 
+ chargingRuleBaseName:- 
+ resultCode:- 
+ localSequenceNumber:3 
+ timeOfFirstUsage:2015-07-09 14:44:58 +06:00 
+ timeOfLastUsage:2015-07-09 14:50:53 +06:00 
+ timeUsage:355 
+ serviceConditionChange:pDPContextRelease 
+ qoSInformationNeg 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ sgsnAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.6
+ sGSNPLMNIdentifier:- 
+ datavolumeFBCUplink:103392 
+ datavolumeFBCDownlink:98304 
+ timeOfReport:2015-07-09 14:50:55 +06:00 
+ rATType:- 
+ failureHandlingContinue:- 
+ serviceIdentifier:- 
+ pSFurnishChargingInformation:- 
+ aFRecordInformation:- 
+ userLocationInformation:- 
+ eventBasedChargingInformation:- 
+ timeQuotaMechanism:- 
+ serviceSpecificInfo:- 
+ threeGPP2UserLocationInformation:-
+ servingNodeType 
+ :sGSN
+ servedMNNAI = - 
+ pGWPLMNIdentifier = 40107 
+ startTime = 2015-07-09 13:44:57 +06:00 
+ stopTime = 2015-07-09 14:50:55 +06:00 
+ served3gpp2MEID = - 
+ pDNConnectionChargingID = 159862312 
+ iMSIunauthenticatedFlag = - 
+ userCSGInformation = - 
+ threeGPP2UserLocationInformation = - 
+ servedPDPPDNAddressExt = - 
+ dynamicAddressFlagExt = -
+ The sequence of current record: 2 
+ recordType = pGWRecord 
+ servedIMSI 
+ number:401071110045366
+ pGWAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.74.25
+ chargingID = 2441576747 
+ servingNodeAddress 
+ 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.3
+ accessPointNameNI = internetstatic 
+ pdpPDNType = 0x01 21 
+ servedPDPPDNAddress 
+ iPAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.68.33
+ dynamicAddressFlag = FALSE 
+ listOfTrafficVolumes 
+ 
+ qosRequested:- 
+ qosNegotiated:- 
+ dataVolumeGPRSUplink:704 
+ dataVolumeGPRSDownlink:700 
+ changeCondition:recordClosure 
+ changeTime:2015-07-09 15:31:48 +06:00 
+ failureHandlingContinue:- 
+ userLocationInformation:- 
+ ePCQoSInformation 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ recordOpeningTime = 2015-07-09 15:31:25 +06:00 
+ duration = 23 
+ causeForRecClosing = normalRelease 
+ diagnostics 
+ manufacturerSpecificCause:1
+ recordSequenceNumber = - 
+ nodeID = ALUGW01 
+ recordExtensions = - 
+ localSequenceNumber = 3963981379 
+ apnSelectionMode = mSorNetworkProvidedSubscriptionVerified 
+
+ servedMSISDN 
+ number:77086350003
+ chargingCharacteristics = Normal billing 
+ chChSelectionMode = servingNodeSupplied 
+ iMSsignalingContext = - 
+ externalChargingID = - 
+ servingNodePLMNIdentifier = 40107 
+ pSFurnishChargingInformation = - 
+ servedIMEISV 
+ number:3536270450029835
+ rATType = 2 
+ mSTimeZone = GMT+06:00,NO DST 
+ userLocationInformation = 0x00 04 F1 70 04 51 07 D2 
+ cAMELChargingInformation = - 
+ listOfServiceData 
+ 
+ ratingGroup:100 
+ chargingRuleBaseName:- 
+ resultCode:- 
+ localSequenceNumber:1 
+ timeOfFirstUsage:2015-07-09 15:31:26 +06:00 
+ timeOfLastUsage:2015-07-09 15:31:38 +06:00 
+ timeUsage:12 
+ serviceConditionChange:pDPContextRelease 
+ qoSInformationNeg 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ sgsnAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.3
+ sGSNPLMNIdentifier:- 
+ datavolumeFBCUplink:704 
+ datavolumeFBCDownlink:656 
+ timeOfReport:2015-07-09 15:31:48 +06:00 
+ rATType:- 
+ failureHandlingContinue:- 
+ serviceIdentifier:- 
+ pSFurnishChargingInformation:- 
+ aFRecordInformation:- 
+ userLocationInformation:- 
+ eventBasedChargingInformation:- 
+ timeQuotaMechanism:- 
+ serviceSpecificInfo:- 
+ threeGPP2UserLocationInformation:-
+ servingNodeType 
+ :sGSN
+ servedMNNAI = - 
+ pGWPLMNIdentifier = 40107 
+ startTime = 2015-07-09 15:31:25 +06:00 
+ stopTime = 2015-07-09 15:31:48 +06:00 
+ served3gpp2MEID = - 
+ pDNConnectionChargingID = 2441576747 
+ iMSIunauthenticatedFlag = - 
+ userCSGInformation = - 
+ threeGPP2UserLocationInformation = - 
+ servedPDPPDNAddressExt = - 
+ dynamicAddressFlagExt = -
+ The sequence of current record: 3 
+ recordType = pGWRecord 
+ servedIMSI 
+ number:401071110045366
+ pGWAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.74.31
+ chargingID = 222798368 
+ servingNodeAddress 
+ 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.5
+ accessPointNameNI = internetstatic 
+ pdpPDNType = 0x01 21 
+ servedPDPPDNAddress 
+ iPAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.68.33
+ dynamicAddressFlag = FALSE 
+ listOfTrafficVolumes 
+ 
+ qosRequested:- 
+ qosNegotiated:- 
+ dataVolumeGPRSUplink:656 
+ dataVolumeGPRSDownlink:656 
+ changeCondition:recordClosure 
+ changeTime:2015-07-09 15:32:05 +06:00 
+ failureHandlingContinue:- 
+ userLocationInformation:- 
+ ePCQoSInformation 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ recordOpeningTime = 2015-07-09 15:31:59 +06:00 
+ duration = 6 
+ causeForRecClosing = normalRelease 
+ diagnostics 
+ manufacturerSpecificCause:1
+ recordSequenceNumber = - 
+ nodeID = ALUGW01 
+ recordExtensions = - 
+ localSequenceNumber = 2757857750 
+ apnSelectionMode = mSorNetworkProvidedSubscriptionVerified 
+
+ servedMSISDN 
+ number:77086350003
+ chargingCharacteristics = Normal billing 
+ chChSelectionMode = servingNodeSupplied 
+ iMSsignalingContext = - 
+ externalChargingID = - 
+ servingNodePLMNIdentifier = 40107 
+ pSFurnishChargingInformation = - 
+ servedIMEISV 
+ number:3536270450029835
+ rATType = 2 
+ mSTimeZone = GMT+06:00,NO DST 
+ userLocationInformation = 0x00 04 F1 70 04 51 07 D2 
+ cAMELChargingInformation = - 
+ listOfServiceData 
+ 
+ ratingGroup:100 
+ chargingRuleBaseName:- 
+ resultCode:- 
+ localSequenceNumber:1 
+ timeOfFirstUsage:2015-07-09 15:32:00 +06:00 
+ timeOfLastUsage:2015-07-09 15:32:03 +06:00 
+ timeUsage:3 
+ serviceConditionChange:pDPContextRelease 
+ qoSInformationNeg 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ sgsnAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.5
+ sGSNPLMNIdentifier:- 
+ datavolumeFBCUplink:656 
+ datavolumeFBCDownlink:656 
+ timeOfReport:2015-07-09 15:32:05 +06:00 
+ rATType:- 
+ failureHandlingContinue:- 
+ serviceIdentifier:- 
+ pSFurnishChargingInformation:- 
+ aFRecordInformation:- 
+ userLocationInformation:- 
+ eventBasedChargingInformation:- 
+ timeQuotaMechanism:- 
+ serviceSpecificInfo:- 
+ threeGPP2UserLocationInformation:-
+ servingNodeType 
+ :sGSN
+ servedMNNAI = - 
+ pGWPLMNIdentifier = 40107 
+ startTime = 2015-07-09 15:31:59 +06:00 
+ stopTime = 2015-07-09 15:32:05 +06:00 
+ served3gpp2MEID = - 
+ pDNConnectionChargingID = 222798368 
+ iMSIunauthenticatedFlag = - 
+ userCSGInformation = - 
+ threeGPP2UserLocationInformation = - 
+ servedPDPPDNAddressExt = - 
+ dynamicAddressFlagExt = -
+ The sequence of current record: 4 
+ recordType = pGWRecord 
+ servedIMSI 
+ number:401071110045366
+ pGWAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.74.27
+ chargingID = 2240246917 
+ servingNodeAddress 
+ 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.4
+ accessPointNameNI = internetstatic 
+ pdpPDNType = 0x01 21 
+ servedPDPPDNAddress 
+ iPAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.68.33
+ dynamicAddressFlag = FALSE 
+ listOfTrafficVolumes 
+ 
+ qosRequested:- 
+ qosNegotiated:- 
+ dataVolumeGPRSUplink:1230 
+ dataVolumeGPRSDownlink:1230 
+ changeCondition:recordClosure 
+ changeTime:2015-07-09 15:28:43 +06:00 
+ failureHandlingContinue:- 
+ userLocationInformation:- 
+ ePCQoSInformation 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ recordOpeningTime = 2015-07-09 15:28:39 +06:00 
+ duration = 4 
+ causeForRecClosing = normalRelease 
+ diagnostics 
+ manufacturerSpecificCause:1
+ recordSequenceNumber = - 
+ nodeID = ALUGW01 
+ recordExtensions = - 
+ localSequenceNumber = 3158252727 
+ apnSelectionMode = mSorNetworkProvidedSubscriptionVerified 
+
+ servedMSISDN 
+ number:77086350003
+ chargingCharacteristics = Normal billing 
+ chChSelectionMode = servingNodeSupplied 
+ iMSsignalingContext = - 
+ externalChargingID = - 
+ servingNodePLMNIdentifier = 40107 
+ pSFurnishChargingInformation = - 
+ servedIMEISV 
+ number:3536270450029835
+ rATType = 2 
+ mSTimeZone = GMT+06:00,NO DST 
+ userLocationInformation = 0x00 04 F1 70 04 51 07 D2 
+ cAMELChargingInformation = - 
+ listOfServiceData 
+ 
+ ratingGroup:100 
+ chargingRuleBaseName:- 
+ resultCode:- 
+ localSequenceNumber:1 
+ timeOfFirstUsage:2015-07-09 15:28:40 +06:00 
+ timeOfLastUsage:2015-07-09 15:28:42 +06:00 
+ timeUsage:2 
+ serviceConditionChange:pDPContextRelease 
+ qoSInformationNeg 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ sgsnAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.4
+ sGSNPLMNIdentifier:- 
+ datavolumeFBCUplink:1230 
+ datavolumeFBCDownlink:1230 
+ timeOfReport:2015-07-09 15:28:43 +06:00 
+ rATType:- 
+ failureHandlingContinue:- 
+ serviceIdentifier:- 
+ pSFurnishChargingInformation:- 
+ aFRecordInformation:- 
+ userLocationInformation:- 
+ eventBasedChargingInformation:- 
+ timeQuotaMechanism:- 
+ serviceSpecificInfo:- 
+ threeGPP2UserLocationInformation:-
+ servingNodeType 
+ :sGSN
+ servedMNNAI = - 
+ pGWPLMNIdentifier = 40107 
+ startTime = 2015-07-09 15:28:39 +06:00 
+ stopTime = 2015-07-09 15:28:43 +06:00 
+ served3gpp2MEID = - 
+ pDNConnectionChargingID = 2240246917 
+ iMSIunauthenticatedFlag = - 
+ userCSGInformation = - 
+ threeGPP2UserLocationInformation = - 
+ servedPDPPDNAddressExt = - 
+ dynamicAddressFlagExt = -
+ The sequence of current record: 5 
+ recordType = pGWRecord 
+ servedIMSI 
+ number:401071110045366
+ pGWAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.78.12
+ chargingID = 226843284 
+ servingNodeAddress 
+ 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.6
+ accessPointNameNI = internetstatic 
+ pdpPDNType = 0x01 21 
+ servedPDPPDNAddress 
+ iPAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.68.33
+ dynamicAddressFlag = FALSE 
+ listOfTrafficVolumes 
+ 
+ qosRequested:- 
+ qosNegotiated:- 
+ dataVolumeGPRSUplink:656 
+ dataVolumeGPRSDownlink:656 
+ changeCondition:recordClosure 
+ changeTime:2015-07-09 15:28:52 +06:00 
+ failureHandlingContinue:- 
+ userLocationInformation:- 
+ ePCQoSInformation 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ recordOpeningTime = 2015-07-09 15:28:48 +06:00 
+ duration = 4 
+ causeForRecClosing = normalRelease 
+ diagnostics 
+ manufacturerSpecificCause:1
+ recordSequenceNumber = - 
+ nodeID = ALUGW01 
+ recordExtensions = - 
+ localSequenceNumber = 1684290695 
+ apnSelectionMode = mSorNetworkProvidedSubscriptionVerified 
+
+ servedMSISDN 
+ number:77086350003
+ chargingCharacteristics = Normal billing 
+ chChSelectionMode = servingNodeSupplied 
+ iMSsignalingContext = - 
+ externalChargingID = - 
+ servingNodePLMNIdentifier = 40107 
+ pSFurnishChargingInformation = - 
+ servedIMEISV 
+ number:3536270450029835
+ rATType = 2 
+ mSTimeZone = GMT+06:00,NO DST 
+ userLocationInformation = 0x00 04 F1 70 04 51 07 D2 
+ cAMELChargingInformation = - 
+ listOfServiceData 
+ 
+ ratingGroup:100 
+ chargingRuleBaseName:- 
+ resultCode:- 
+ localSequenceNumber:1 
+ timeOfFirstUsage:2015-07-09 15:28:49 +06:00 
+ timeOfLastUsage:2015-07-09 15:28:51 +06:00 
+ timeUsage:2 
+ serviceConditionChange:pDPContextRelease 
+ qoSInformationNeg 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ sgsnAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.6
+ sGSNPLMNIdentifier:- 
+ datavolumeFBCUplink:656 
+ datavolumeFBCDownlink:656 
+ timeOfReport:2015-07-09 15:28:52 +06:00 
+ rATType:- 
+ failureHandlingContinue:- 
+ serviceIdentifier:- 
+ pSFurnishChargingInformation:- 
+ aFRecordInformation:- 
+ userLocationInformation:- 
+ eventBasedChargingInformation:- 
+ timeQuotaMechanism:- 
+ serviceSpecificInfo:- 
+ threeGPP2UserLocationInformation:-
+ servingNodeType 
+ :sGSN
+ servedMNNAI = - 
+ pGWPLMNIdentifier = 40107 
+ startTime = 2015-07-09 15:28:48 +06:00 
+ stopTime = 2015-07-09 15:28:52 +06:00 
+ served3gpp2MEID = - 
+ pDNConnectionChargingID = 226843284 
+ iMSIunauthenticatedFlag = - 
+ userCSGInformation = - 
+ threeGPP2UserLocationInformation = - 
+ servedPDPPDNAddressExt = - 
+ dynamicAddressFlagExt = -
+ The sequence of current record: 6 
+ recordType = pGWRecord 
+ servedIMSI 
+ number:401071110045366
+ pGWAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.74.28
+ chargingID = 2638732704 
+ servingNodeAddress 
+ 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.5
+ accessPointNameNI = internetstatic 
+ pdpPDNType = 0x01 21 
+ servedPDPPDNAddress 
+ iPAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.68.33
+ dynamicAddressFlag = FALSE 
+ listOfTrafficVolumes 
+ 
+ qosRequested:- 
+ qosNegotiated:- 
+ dataVolumeGPRSUplink:656 
+ dataVolumeGPRSDownlink:656 
+ changeCondition:recordClosure 
+ changeTime:2015-07-09 15:29:02 +06:00 
+ failureHandlingContinue:- 
+ userLocationInformation:- 
+ ePCQoSInformation 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ recordOpeningTime = 2015-07-09 15:28:58 +06:00 
+ duration = 4 
+ causeForRecClosing = normalRelease 
+ diagnostics 
+ manufacturerSpecificCause:1
+ recordSequenceNumber = - 
+ nodeID = ALUGW01 
+ recordExtensions = - 
+ localSequenceNumber = 3429190713 
+ apnSelectionMode = mSorNetworkProvidedSubscriptionVerified 
+
+ servedMSISDN 
+ number:77086350003
+ chargingCharacteristics = Normal billing 
+ chChSelectionMode = servingNodeSupplied 
+ iMSsignalingContext = - 
+ externalChargingID = - 
+ servingNodePLMNIdentifier = 40107 
+ pSFurnishChargingInformation = - 
+ servedIMEISV 
+ number:3536270450029835
+ rATType = 2 
+ mSTimeZone = GMT+06:00,NO DST 
+ userLocationInformation = 0x00 04 F1 70 04 51 07 D2 
+ cAMELChargingInformation = - 
+ listOfServiceData 
+ 
+ ratingGroup:100 
+ chargingRuleBaseName:- 
+ resultCode:- 
+ localSequenceNumber:1 
+ timeOfFirstUsage:2015-07-09 15:28:59 +06:00 
+ timeOfLastUsage:2015-07-09 15:29:01 +06:00 
+ timeUsage:2 
+ serviceConditionChange:pDPContextRelease 
+ qoSInformationNeg 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ sgsnAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.5
+ sGSNPLMNIdentifier:- 
+ datavolumeFBCUplink:656 
+ datavolumeFBCDownlink:656 
+ timeOfReport:2015-07-09 15:29:02 +06:00 
+ rATType:- 
+ failureHandlingContinue:- 
+ serviceIdentifier:- 
+ pSFurnishChargingInformation:- 
+ aFRecordInformation:- 
+ userLocationInformation:- 
+ eventBasedChargingInformation:- 
+ timeQuotaMechanism:- 
+ serviceSpecificInfo:- 
+ threeGPP2UserLocationInformation:-
+ servingNodeType 
+ :sGSN
+ servedMNNAI = - 
+ pGWPLMNIdentifier = 40107 
+ startTime = 2015-07-09 15:28:58 +06:00 
+ stopTime = 2015-07-09 15:29:02 +06:00 
+ served3gpp2MEID = - 
+ pDNConnectionChargingID = 2638732704 
+ iMSIunauthenticatedFlag = - 
+ userCSGInformation = - 
+ threeGPP2UserLocationInformation = - 
+ servedPDPPDNAddressExt = - 
+ dynamicAddressFlagExt = -
+ The sequence of current record: 7 
+ recordType = pGWRecord 
+ servedIMSI 
+ number:401071110045366
+ pGWAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.74.26
+ chargingID = 159875124 
+ servingNodeAddress 
+ 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.4
+ accessPointNameNI = internetstatic 
+ pdpPDNType = 0x01 21 
+ servedPDPPDNAddress 
+ iPAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.68.33
+ dynamicAddressFlag = FALSE 
+ listOfTrafficVolumes 
+ 
+ qosRequested:- 
+ qosNegotiated:- 
+ dataVolumeGPRSUplink:656 
+ dataVolumeGPRSDownlink:656 
+ changeCondition:recordClosure 
+ changeTime:2015-07-09 15:29:11 +06:00 
+ failureHandlingContinue:- 
+ userLocationInformation:- 
+ ePCQoSInformation 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ recordOpeningTime = 2015-07-09 15:29:07 +06:00 
+ duration = 4 
+ causeForRecClosing = normalRelease 
+ diagnostics 
+ manufacturerSpecificCause:1
+ recordSequenceNumber = - 
+ nodeID = ALUGW01 
+ recordExtensions = - 
+ localSequenceNumber = 3560156797 
+ apnSelectionMode = mSorNetworkProvidedSubscriptionVerified 
+
+ servedMSISDN 
+ number:77086350003
+ chargingCharacteristics = Normal billing 
+ chChSelectionMode = servingNodeSupplied 
+ iMSsignalingContext = - 
+ externalChargingID = - 
+ servingNodePLMNIdentifier = 40107 
+ pSFurnishChargingInformation = - 
+ servedIMEISV 
+ number:3536270450029835
+ rATType = 2 
+ mSTimeZone = GMT+06:00,NO DST 
+ userLocationInformation = 0x00 04 F1 70 04 51 07 D2 
+ cAMELChargingInformation = - 
+ listOfServiceData 
+ 
+ ratingGroup:100 
+ chargingRuleBaseName:- 
+ resultCode:- 
+ localSequenceNumber:1 
+ timeOfFirstUsage:2015-07-09 15:29:08 +06:00 
+ timeOfLastUsage:2015-07-09 15:29:09 +06:00 
+ timeUsage:1 
+ serviceConditionChange:pDPContextRelease 
+ qoSInformationNeg 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ sgsnAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.4
+ sGSNPLMNIdentifier:- 
+ datavolumeFBCUplink:656 
+ datavolumeFBCDownlink:656 
+ timeOfReport:2015-07-09 15:29:11 +06:00 
+ rATType:- 
+ failureHandlingContinue:- 
+ serviceIdentifier:- 
+ pSFurnishChargingInformation:- 
+ aFRecordInformation:- 
+ userLocationInformation:- 
+ eventBasedChargingInformation:- 
+ timeQuotaMechanism:- 
+ serviceSpecificInfo:- 
+ threeGPP2UserLocationInformation:-
+ servingNodeType 
+ :sGSN
+ servedMNNAI = - 
+ pGWPLMNIdentifier = 40107 
+ startTime = 2015-07-09 15:29:07 +06:00 
+ stopTime = 2015-07-09 15:29:11 +06:00 
+ served3gpp2MEID = - 
+ pDNConnectionChargingID = 159875124 
+ iMSIunauthenticatedFlag = - 
+ userCSGInformation = - 
+ threeGPP2UserLocationInformation = - 
+ servedPDPPDNAddressExt = - 
+ dynamicAddressFlagExt = -
+ The sequence of current record: 8 
+ recordType = pGWRecord 
+ servedIMSI 
+ number:401071110045366
+ pGWAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.74.27
+ chargingID = 2638699422 
+ servingNodeAddress 
+ 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.5
+ accessPointNameNI = internetstatic 
+ pdpPDNType = 0x01 21 
+ servedPDPPDNAddress 
+ iPAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.68.33
+ dynamicAddressFlag = FALSE 
+ listOfTrafficVolumes 
+ 
+ qosRequested:- 
+ qosNegotiated:- 
+ dataVolumeGPRSUplink:603296 
+ dataVolumeGPRSDownlink:615695 
+ changeCondition:recordClosure 
+ changeTime:2015-07-09 10:49:33 +06:00 
+ failureHandlingContinue:- 
+ userLocationInformation:- 
+ ePCQoSInformation 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ recordOpeningTime = 2015-07-09 10:19:33 +06:00 
+ duration = 1800 
+ causeForRecClosing = timeLimit 
+ diagnostics = - 
+ recordSequenceNumber = 2 
+ nodeID = ALUGW01 
+ recordExtensions = - 
+ localSequenceNumber = 3157541412 
+ apnSelectionMode = mSorNetworkProvidedSubscriptionVerified 
+
+ servedMSISDN 
+ number:77086350003
+ chargingCharacteristics = Normal billing 
+ chChSelectionMode = servingNodeSupplied 
+ iMSsignalingContext = - 
+ externalChargingID = - 
+ servingNodePLMNIdentifier = 40107 
+ pSFurnishChargingInformation = - 
+ servedIMEISV 
+ number:3536270450029835
+ rATType = 2 
+ mSTimeZone = GMT+06:00,NO DST 
+ userLocationInformation = 0x00 04 F1 70 04 51 07 D2 
+ cAMELChargingInformation = - 
+ listOfServiceData 
+ 
+ ratingGroup:100 
+ chargingRuleBaseName:- 
+ resultCode:- 
+ localSequenceNumber:3 
+ timeOfFirstUsage:2015-07-09 10:19:33 +06:00 
+ timeOfLastUsage:2015-07-09 10:49:32 +06:00 
+ timeUsage:1799 
+ serviceConditionChange:timeLimit 
+ qoSInformationNeg 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ sgsnAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.5
+ sGSNPLMNIdentifier:- 
+ datavolumeFBCUplink:603296 
+ datavolumeFBCDownlink:615095 
+ timeOfReport:2015-07-09 10:49:33 +06:00 
+ rATType:- 
+ failureHandlingContinue:- 
+ serviceIdentifier:- 
+ pSFurnishChargingInformation:- 
+ aFRecordInformation:- 
+ userLocationInformation:- 
+ eventBasedChargingInformation:- 
+ timeQuotaMechanism:- 
+ serviceSpecificInfo:- 
+ threeGPP2UserLocationInformation:-
+ servingNodeType 
+ :sGSN
+ servedMNNAI = - 
+ pGWPLMNIdentifier = 40107 
+ startTime = 2015-07-09 09:19:33 +06:00 
+ stopTime = - 
+ served3gpp2MEID = - 
+ pDNConnectionChargingID = 2638699422 
+ iMSIunauthenticatedFlag = - 
+ userCSGInformation = - 
+ threeGPP2UserLocationInformation = - 
+ servedPDPPDNAddressExt = - 
+ dynamicAddressFlagExt = -
+ The sequence of current record: 9 
+ recordType = pGWRecord 
+ servedIMSI 
+ number:401071110045366
+ pGWAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.74.25
+ chargingID = 428319104 
+ servingNodeAddress 
+ 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.5
+ accessPointNameNI = internetstatic 
+ pdpPDNType = 0x01 21 
+ servedPDPPDNAddress 
+ iPAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.68.33
+ dynamicAddressFlag = FALSE 
+ listOfTrafficVolumes 
+ 
+ qosRequested:- 
+ qosNegotiated:- 
+ dataVolumeGPRSUplink:656 
+ dataVolumeGPRSDownlink:656 
+ changeCondition:recordClosure 
+ changeTime:2015-07-09 15:35:32 +06:00 
+ failureHandlingContinue:- 
+ userLocationInformation:- 
+ ePCQoSInformation 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ recordOpeningTime = 2015-07-09 15:35:28 +06:00 
+ duration = 4 
+ causeForRecClosing = normalRelease 
+ diagnostics 
+ manufacturerSpecificCause:1
+ recordSequenceNumber = - 
+ nodeID = ALUGW01 
+ recordExtensions = - 
+ localSequenceNumber = 3829855221 
+ apnSelectionMode = mSorNetworkProvidedSubscriptionVerified 
+
+ servedMSISDN 
+ number:77086350003
+ chargingCharacteristics = Normal billing 
+ chChSelectionMode = servingNodeSupplied 
+ iMSsignalingContext = - 
+ externalChargingID = - 
+ servingNodePLMNIdentifier = 40107 
+ pSFurnishChargingInformation = - 
+ servedIMEISV 
+ number:3536270450029835
+ rATType = 2 
+ mSTimeZone = GMT+06:00,NO DST 
+ userLocationInformation = 0x00 04 F1 70 04 51 07 D2 
+ cAMELChargingInformation = - 
+ listOfServiceData 
+ 
+ ratingGroup:100 
+ chargingRuleBaseName:- 
+ resultCode:- 
+ localSequenceNumber:1 
+ timeOfFirstUsage:2015-07-09 15:35:28 +06:00 
+ timeOfLastUsage:2015-07-09 15:35:31 +06:00 
+ timeUsage:3 
+ serviceConditionChange:pDPContextRelease 
+ qoSInformationNeg 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ sgsnAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.5
+ sGSNPLMNIdentifier:- 
+ datavolumeFBCUplink:656 
+ datavolumeFBCDownlink:656 
+ timeOfReport:2015-07-09 15:35:32 +06:00 
+ rATType:- 
+ failureHandlingContinue:- 
+ serviceIdentifier:- 
+ pSFurnishChargingInformation:- 
+ aFRecordInformation:- 
+ userLocationInformation:- 
+ eventBasedChargingInformation:- 
+ timeQuotaMechanism:- 
+ serviceSpecificInfo:- 
+ threeGPP2UserLocationInformation:-
+ servingNodeType 
+ :sGSN
+ servedMNNAI = - 
+ pGWPLMNIdentifier = 40107 
+ startTime = 2015-07-09 15:35:28 +06:00 
+ stopTime = 2015-07-09 15:35:32 +06:00 
+ served3gpp2MEID = - 
+ pDNConnectionChargingID = 428319104 
+ iMSIunauthenticatedFlag = - 
+ userCSGInformation = - 
+ threeGPP2UserLocationInformation = - 
+ servedPDPPDNAddressExt = - 
+ dynamicAddressFlagExt = -
+ The sequence of current record: 10 
+ recordType = pGWRecord 
+ servedIMSI 
+ number:401071110045366
+ pGWAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.74.7
+ chargingID = 2437376537 
+ servingNodeAddress 
+ 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.3
+ accessPointNameNI = internetstatic 
+ pdpPDNType = 0x01 21 
+ servedPDPPDNAddress 
+ iPAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.68.33
+ dynamicAddressFlag = FALSE 
+ listOfTrafficVolumes 
+ 
+ qosRequested:- 
+ qosNegotiated:- 
+ dataVolumeGPRSUplink:656 
+ dataVolumeGPRSDownlink:656 
+ changeCondition:recordClosure 
+ changeTime:2015-07-09 15:35:46 +06:00 
+ failureHandlingContinue:- 
+ userLocationInformation:- 
+ ePCQoSInformation 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ recordOpeningTime = 2015-07-09 15:35:37 +06:00 
+ duration = 9 
+ causeForRecClosing = normalRelease 
+ diagnostics 
+ manufacturerSpecificCause:1
+ recordSequenceNumber = - 
+ nodeID = ALUGW01 
+ recordExtensions = - 
+ localSequenceNumber = 2354912951 
+ apnSelectionMode = mSorNetworkProvidedSubscriptionVerified 
+
+ servedMSISDN 
+ number:77086350003
+ chargingCharacteristics = Normal billing 
+ chChSelectionMode = servingNodeSupplied 
+ iMSsignalingContext = - 
+ externalChargingID = - 
+ servingNodePLMNIdentifier = 40107 
+ pSFurnishChargingInformation = - 
+ servedIMEISV 
+ number:3536270450029835
+ rATType = 2 
+ mSTimeZone = GMT+06:00,NO DST 
+ userLocationInformation = 0x00 04 F1 70 04 51 07 D2 
+ cAMELChargingInformation = - 
+ listOfServiceData 
+ 
+ ratingGroup:100 
+ chargingRuleBaseName:- 
+ resultCode:- 
+ localSequenceNumber:1 
+ timeOfFirstUsage:2015-07-09 15:35:38 +06:00 
+ timeOfLastUsage:2015-07-09 15:35:43 +06:00 
+ timeUsage:5 
+ serviceConditionChange:pDPContextRelease 
+ qoSInformationNeg 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ sgsnAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.3
+ sGSNPLMNIdentifier:- 
+ datavolumeFBCUplink:656 
+ datavolumeFBCDownlink:656 
+ timeOfReport:2015-07-09 15:35:46 +06:00 
+ rATType:- 
+ failureHandlingContinue:- 
+ serviceIdentifier:- 
+ pSFurnishChargingInformation:- 
+ aFRecordInformation:- 
+ userLocationInformation:- 
+ eventBasedChargingInformation:- 
+ timeQuotaMechanism:- 
+ serviceSpecificInfo:- 
+ threeGPP2UserLocationInformation:-
+ servingNodeType 
+ :sGSN
+ servedMNNAI = - 
+ pGWPLMNIdentifier = 40107 
+ startTime = 2015-07-09 15:35:37 +06:00 
+ stopTime = 2015-07-09 15:35:46 +06:00 
+ served3gpp2MEID = - 
+ pDNConnectionChargingID = 2437376537 
+ iMSIunauthenticatedFlag = - 
+ userCSGInformation = - 
+ threeGPP2UserLocationInformation = - 
+ servedPDPPDNAddressExt = - 
+ dynamicAddressFlagExt = -
+ The sequence of current record: 11 
+ recordType = pGWRecord 
+ servedIMSI 
+ number:401071110045366
+ pGWAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.74.30
+ chargingID = 289898749 
+ servingNodeAddress 
+ 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.5
+ accessPointNameNI = internetstatic 
+ pdpPDNType = 0x01 21 
+ servedPDPPDNAddress 
+ iPAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.68.33
+ dynamicAddressFlag = FALSE 
+ listOfTrafficVolumes 
+ 
+ qosRequested:- 
+ qosNegotiated:- 
+ dataVolumeGPRSUplink:656 
+ dataVolumeGPRSDownlink:656 
+ changeCondition:recordClosure 
+ changeTime:2015-07-09 15:36:04 +06:00 
+ failureHandlingContinue:- 
+ userLocationInformation:- 
+ ePCQoSInformation 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ recordOpeningTime = 2015-07-09 15:35:52 +06:00 
+ duration = 12 
+ causeForRecClosing = normalRelease 
+ diagnostics 
+ manufacturerSpecificCause:1
+ recordSequenceNumber = - 
+ nodeID = ALUGW01 
+ recordExtensions = - 
+ localSequenceNumber = 2487342364 
+ apnSelectionMode = mSorNetworkProvidedSubscriptionVerified 
+
+ servedMSISDN 
+ number:77086350003
+ chargingCharacteristics = Normal billing 
+ chChSelectionMode = servingNodeSupplied 
+ iMSsignalingContext = - 
+ externalChargingID = - 
+ servingNodePLMNIdentifier = 40107 
+ pSFurnishChargingInformation = - 
+ servedIMEISV 
+ number:3536270450029835
+ rATType = 2 
+ mSTimeZone = GMT+06:00,NO DST 
+ userLocationInformation = 0x00 04 F1 70 04 51 07 D2 
+ cAMELChargingInformation = - 
+ listOfServiceData 
+ 
+ ratingGroup:100 
+ chargingRuleBaseName:- 
+ resultCode:- 
+ localSequenceNumber:1 
+ timeOfFirstUsage:2015-07-09 15:35:56 +06:00 
+ timeOfLastUsage:2015-07-09 15:36:02 +06:00 
+ timeUsage:6 
+ serviceConditionChange:pDPContextRelease 
+ qoSInformationNeg 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ sgsnAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.5
+ sGSNPLMNIdentifier:- 
+ datavolumeFBCUplink:656 
+ datavolumeFBCDownlink:656 
+ timeOfReport:2015-07-09 15:36:04 +06:00 
+ rATType:- 
+ failureHandlingContinue:- 
+ serviceIdentifier:- 
+ pSFurnishChargingInformation:- 
+ aFRecordInformation:- 
+ userLocationInformation:- 
+ eventBasedChargingInformation:- 
+ timeQuotaMechanism:- 
+ serviceSpecificInfo:- 
+ threeGPP2UserLocationInformation:-
+ servingNodeType 
+ :sGSN
+ servedMNNAI = - 
+ pGWPLMNIdentifier = 40107 
+ startTime = 2015-07-09 15:35:52 +06:00 
+ stopTime = 2015-07-09 15:36:04 +06:00 
+ served3gpp2MEID = - 
+ pDNConnectionChargingID = 289898749 
+ iMSIunauthenticatedFlag = - 
+ userCSGInformation = - 
+ threeGPP2UserLocationInformation = - 
+ servedPDPPDNAddressExt = - 
+ dynamicAddressFlagExt = -
+ The sequence of current record: 12 
+ recordType = pGWRecord 
+ servedIMSI 
+ number:401071110045366
+ pGWAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.74.7
+ chargingID = 2504492111 
+ servingNodeAddress 
+ 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.4
+ accessPointNameNI = internetstatic 
+ pdpPDNType = 0x01 21 
+ servedPDPPDNAddress 
+ iPAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.68.33
+ dynamicAddressFlag = FALSE 
+ listOfTrafficVolumes 
+ 
+ qosRequested:- 
+ qosNegotiated:- 
+ dataVolumeGPRSUplink:656 
+ dataVolumeGPRSDownlink:656 
+ changeCondition:recordClosure 
+ changeTime:2015-07-09 15:32:22 +06:00 
+ failureHandlingContinue:- 
+ userLocationInformation:- 
+ ePCQoSInformation 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ recordOpeningTime = 2015-07-09 15:32:10 +06:00 
+ duration = 12 
+ causeForRecClosing = normalRelease 
+ diagnostics 
+ manufacturerSpecificCause:1
+ recordSequenceNumber = - 
+ nodeID = ALUGW01 
+ recordExtensions = - 
+ localSequenceNumber = 2354904662 
+ apnSelectionMode = mSorNetworkProvidedSubscriptionVerified 
+
+ servedMSISDN 
+ number:77086350003
+ chargingCharacteristics = Normal billing 
+ chChSelectionMode = servingNodeSupplied 
+ iMSsignalingContext = - 
+ externalChargingID = - 
+ servingNodePLMNIdentifier = 40107 
+ pSFurnishChargingInformation = - 
+ servedIMEISV 
+ number:3536270450029835
+ rATType = 2 
+ mSTimeZone = GMT+06:00,NO DST 
+ userLocationInformation = 0x00 04 F1 70 04 51 07 D2 
+ cAMELChargingInformation = - 
+ listOfServiceData 
+ 
+ ratingGroup:100 
+ chargingRuleBaseName:- 
+ resultCode:- 
+ localSequenceNumber:1 
+ timeOfFirstUsage:2015-07-09 15:32:12 +06:00 
+ timeOfLastUsage:2015-07-09 15:32:19 +06:00 
+ timeUsage:7 
+ serviceConditionChange:pDPContextRelease 
+ qoSInformationNeg 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ sgsnAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.4
+ sGSNPLMNIdentifier:- 
+ datavolumeFBCUplink:656 
+ datavolumeFBCDownlink:656 
+ timeOfReport:2015-07-09 15:32:22 +06:00 
+ rATType:- 
+ failureHandlingContinue:- 
+ serviceIdentifier:- 
+ pSFurnishChargingInformation:- 
+ aFRecordInformation:- 
+ userLocationInformation:- 
+ eventBasedChargingInformation:- 
+ timeQuotaMechanism:- 
+ serviceSpecificInfo:- 
+ threeGPP2UserLocationInformation:-
+ servingNodeType 
+ :sGSN
+ servedMNNAI = - 
+ pGWPLMNIdentifier = 40107 
+ startTime = 2015-07-09 15:32:10 +06:00 
+ stopTime = 2015-07-09 15:32:22 +06:00 
+ served3gpp2MEID = - 
+ pDNConnectionChargingID = 2504492111 
+ iMSIunauthenticatedFlag = - 
+ userCSGInformation = - 
+ threeGPP2UserLocationInformation = - 
+ servedPDPPDNAddressExt = - 
+ dynamicAddressFlagExt = -
+ The sequence of current record: 13 
+ recordType = pGWRecord 
+ servedIMSI 
+ number:401071110045366
+ pGWAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.74.27
+ chargingID = 2638699422 
+ servingNodeAddress 
+ 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.5
+ accessPointNameNI = internetstatic 
+ pdpPDNType = 0x01 21 
+ servedPDPPDNAddress 
+ iPAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.68.33
+ dynamicAddressFlag = FALSE 
+ listOfTrafficVolumes 
+ 
+ qosRequested:- 
+ qosNegotiated:- 
+ dataVolumeGPRSUplink:440928 
+ dataVolumeGPRSDownlink:427331 
+ changeCondition:recordClosure 
+ changeTime:2015-07-09 12:12:54 +06:00 
+ failureHandlingContinue:- 
+ userLocationInformation:- 
+ ePCQoSInformation 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ recordOpeningTime = 2015-07-09 11:49:33 +06:00 
+ duration = 1401 
+ causeForRecClosing = normalRelease 
+ diagnostics 
+ manufacturerSpecificCause:1
+ recordSequenceNumber = 5 
+ nodeID = ALUGW01 
+ recordExtensions = - 
+ localSequenceNumber = 3157749968 
+ apnSelectionMode = mSorNetworkProvidedSubscriptionVerified 
+
+ servedMSISDN 
+ number:77086350003
+ chargingCharacteristics = Normal billing 
+ chChSelectionMode = servingNodeSupplied 
+ iMSsignalingContext = - 
+ externalChargingID = - 
+ servingNodePLMNIdentifier = 40107 
+ pSFurnishChargingInformation = - 
+ servedIMEISV 
+ number:3536270450029835
+ rATType = 2 
+ mSTimeZone = GMT+06:00,NO DST 
+ userLocationInformation = 0x00 04 F1 70 04 51 07 D2 
+ cAMELChargingInformation = - 
+ listOfServiceData 
+ 
+ ratingGroup:100 
+ chargingRuleBaseName:- 
+ resultCode:- 
+ localSequenceNumber:6 
+ timeOfFirstUsage:2015-07-09 11:49:33 +06:00 
+ timeOfLastUsage:2015-07-09 12:12:52 +06:00 
+ timeUsage:1399 
+ serviceConditionChange:pDPContextRelease 
+ qoSInformationNeg 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ sgsnAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.5
+ sGSNPLMNIdentifier:- 
+ datavolumeFBCUplink:440928 
+ datavolumeFBCDownlink:427107 
+ timeOfReport:2015-07-09 12:12:54 +06:00 
+ rATType:- 
+ failureHandlingContinue:- 
+ serviceIdentifier:- 
+ pSFurnishChargingInformation:- 
+ aFRecordInformation:- 
+ userLocationInformation:- 
+ eventBasedChargingInformation:- 
+ timeQuotaMechanism:- 
+ serviceSpecificInfo:- 
+ threeGPP2UserLocationInformation:-
+ servingNodeType 
+ :sGSN
+ servedMNNAI = - 
+ pGWPLMNIdentifier = 40107 
+ startTime = 2015-07-09 09:19:33 +06:00 
+ stopTime = 2015-07-09 12:12:54 +06:00 
+ served3gpp2MEID = - 
+ pDNConnectionChargingID = 2638699422 
+ iMSIunauthenticatedFlag = - 
+ userCSGInformation = - 
+ threeGPP2UserLocationInformation = - 
+ servedPDPPDNAddressExt = - 
+ dynamicAddressFlagExt = -
+ The sequence of current record: 14 
+ recordType = pGWRecord 
+ servedIMSI 
+ number:401071110045366
+ pGWAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.74.25
+ chargingID = 294085389 
+ servingNodeAddress 
+ 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.3
+ accessPointNameNI = internetstatic 
+ pdpPDNType = 0x01 21 
+ servedPDPPDNAddress 
+ iPAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.68.33
+ dynamicAddressFlag = FALSE 
+ listOfTrafficVolumes 
+ 
+ qosRequested:- 
+ qosNegotiated:- 
+ dataVolumeGPRSUplink:656 
+ dataVolumeGPRSDownlink:656 
+ changeCondition:recordClosure 
+ changeTime:2015-07-09 15:36:20 +06:00 
+ failureHandlingContinue:- 
+ userLocationInformation:- 
+ ePCQoSInformation 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ recordOpeningTime = 2015-07-09 15:36:09 +06:00 
+ duration = 11 
+ causeForRecClosing = normalRelease 
+ diagnostics 
+ manufacturerSpecificCause:1
+ recordSequenceNumber = - 
+ nodeID = ALUGW01 
+ recordExtensions = - 
+ localSequenceNumber = 3829857198 
+ apnSelectionMode = mSorNetworkProvidedSubscriptionVerified 
+
+ servedMSISDN 
+ number:77086350003
+ chargingCharacteristics = Normal billing 
+ chChSelectionMode = servingNodeSupplied 
+ iMSsignalingContext = - 
+ externalChargingID = - 
+ servingNodePLMNIdentifier = 40107 
+ pSFurnishChargingInformation = - 
+ servedIMEISV 
+ number:3536270450029835
+ rATType = 2 
+ mSTimeZone = GMT+06:00,NO DST 
+ userLocationInformation = 0x00 04 F1 70 04 51 07 D2 
+ cAMELChargingInformation = - 
+ listOfServiceData 
+ 
+ ratingGroup:100 
+ chargingRuleBaseName:- 
+ resultCode:- 
+ localSequenceNumber:1 
+ timeOfFirstUsage:2015-07-09 15:36:10 +06:00 
+ timeOfLastUsage:2015-07-09 15:36:17 +06:00 
+ timeUsage:7 
+ serviceConditionChange:pDPContextRelease 
+ qoSInformationNeg 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ sgsnAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.3
+ sGSNPLMNIdentifier:- 
+ datavolumeFBCUplink:656 
+ datavolumeFBCDownlink:656 
+ timeOfReport:2015-07-09 15:36:20 +06:00 
+ rATType:- 
+ failureHandlingContinue:- 
+ serviceIdentifier:- 
+ pSFurnishChargingInformation:- 
+ aFRecordInformation:- 
+ userLocationInformation:- 
+ eventBasedChargingInformation:- 
+ timeQuotaMechanism:- 
+ serviceSpecificInfo:- 
+ threeGPP2UserLocationInformation:-
+ servingNodeType 
+ :sGSN
+ servedMNNAI = - 
+ pGWPLMNIdentifier = 40107 
+ startTime = 2015-07-09 15:36:09 +06:00 
+ stopTime = 2015-07-09 15:36:20 +06:00 
+ served3gpp2MEID = - 
+ pDNConnectionChargingID = 294085389 
+ iMSIunauthenticatedFlag = - 
+ userCSGInformation = - 
+ threeGPP2UserLocationInformation = - 
+ servedPDPPDNAddressExt = - 
+ dynamicAddressFlagExt = -
+ The sequence of current record: 15 
+ recordType = pGWRecord 
+ servedIMSI 
+ number:401071110045366
+ pGWAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.74.27
+ chargingID = 2370269872 
+ servingNodeAddress 
+ 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.3
+ accessPointNameNI = internetstatic 
+ pdpPDNType = 0x01 21 
+ servedPDPPDNAddress 
+ iPAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.68.33
+ dynamicAddressFlag = FALSE 
+ listOfTrafficVolumes 
+ 
+ qosRequested:- 
+ qosNegotiated:- 
+ dataVolumeGPRSUplink:656 
+ dataVolumeGPRSDownlink:656 
+ changeCondition:recordClosure 
+ changeTime:2015-07-09 15:36:34 +06:00 
+ failureHandlingContinue:- 
+ userLocationInformation:- 
+ ePCQoSInformation 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ recordOpeningTime = 2015-07-09 15:36:26 +06:00 
+ duration = 8 
+ causeForRecClosing = normalRelease 
+ diagnostics 
+ manufacturerSpecificCause:1
+ recordSequenceNumber = - 
+ nodeID = ALUGW01 
+ recordExtensions = - 
+ localSequenceNumber = 3158272520 
+ apnSelectionMode = mSorNetworkProvidedSubscriptionVerified 
+
+ servedMSISDN 
+ number:77086350003
+ chargingCharacteristics = Normal billing 
+ chChSelectionMode = servingNodeSupplied 
+ iMSsignalingContext = - 
+ externalChargingID = - 
+ servingNodePLMNIdentifier = 40107 
+ pSFurnishChargingInformation = - 
+ servedIMEISV 
+ number:3536270450029835
+ rATType = 2 
+ mSTimeZone = GMT+06:00,NO DST 
+ userLocationInformation = 0x00 04 F1 70 04 51 07 D2 
+ cAMELChargingInformation = - 
+ listOfServiceData 
+ 
+ ratingGroup:100 
+ chargingRuleBaseName:- 
+ resultCode:- 
+ localSequenceNumber:1 
+ timeOfFirstUsage:2015-07-09 15:36:26 +06:00 
+ timeOfLastUsage:2015-07-09 15:36:32 +06:00 
+ timeUsage:6 
+ serviceConditionChange:pDPContextRelease 
+ qoSInformationNeg 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ sgsnAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.3
+ sGSNPLMNIdentifier:- 
+ datavolumeFBCUplink:656 
+ datavolumeFBCDownlink:656 
+ timeOfReport:2015-07-09 15:36:34 +06:00 
+ rATType:- 
+ failureHandlingContinue:- 
+ serviceIdentifier:- 
+ pSFurnishChargingInformation:- 
+ aFRecordInformation:- 
+ userLocationInformation:- 
+ eventBasedChargingInformation:- 
+ timeQuotaMechanism:- 
+ serviceSpecificInfo:- 
+ threeGPP2UserLocationInformation:-
+ servingNodeType 
+ :sGSN
+ servedMNNAI = - 
+ pGWPLMNIdentifier = 40107 
+ startTime = 2015-07-09 15:36:26 +06:00 
+ stopTime = 2015-07-09 15:36:34 +06:00 
+ served3gpp2MEID = - 
+ pDNConnectionChargingID = 2370269872 
+ iMSIunauthenticatedFlag = - 
+ userCSGInformation = - 
+ threeGPP2UserLocationInformation = - 
+ servedPDPPDNAddressExt = - 
+ dynamicAddressFlagExt = -
+ The sequence of current record: 16 
+ recordType = pGWRecord 
+ servedIMSI 
+ number:401071110045366
+ pGWAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.74.27
+ chargingID = 2638699422 
+ servingNodeAddress 
+ 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.5
+ accessPointNameNI = internetstatic 
+ pdpPDNType = 0x01 21 
+ servedPDPPDNAddress 
+ iPAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.68.33
+ dynamicAddressFlag = FALSE 
+ listOfTrafficVolumes 
+ 
+ qosRequested:- 
+ qosNegotiated:- 
+ dataVolumeGPRSUplink:621216 
+ dataVolumeGPRSDownlink:591824 
+ changeCondition:recordClosure 
+ changeTime:2015-07-09 11:19:33 +06:00 
+ failureHandlingContinue:- 
+ userLocationInformation:- 
+ ePCQoSInformation 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ recordOpeningTime = 2015-07-09 10:49:33 +06:00 
+ duration = 1800 
+ causeForRecClosing = timeLimit 
+ diagnostics = - 
+ recordSequenceNumber = 3 
+ nodeID = ALUGW01 
+ recordExtensions = - 
+ localSequenceNumber = 3157615652 
+ apnSelectionMode = mSorNetworkProvidedSubscriptionVerified 
+
+ servedMSISDN 
+ number:77086350003
+ chargingCharacteristics = Normal billing 
+ chChSelectionMode = servingNodeSupplied 
+ iMSsignalingContext = - 
+ externalChargingID = - 
+ servingNodePLMNIdentifier = 40107 
+ pSFurnishChargingInformation = - 
+ servedIMEISV 
+ number:3536270450029835
+ rATType = 2 
+ mSTimeZone = GMT+06:00,NO DST 
+ userLocationInformation = 0x00 04 F1 70 04 51 07 D2 
+ cAMELChargingInformation = - 
+ listOfServiceData 
+ 
+ ratingGroup:100 
+ chargingRuleBaseName:- 
+ resultCode:- 
+ localSequenceNumber:4 
+ timeOfFirstUsage:2015-07-09 10:49:33 +06:00 
+ timeOfLastUsage:2015-07-09 11:19:33 +06:00 
+ timeUsage:1800 
+ serviceConditionChange:timeLimit 
+ qoSInformationNeg 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ sgsnAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.5
+ sGSNPLMNIdentifier:- 
+ datavolumeFBCUplink:621216 
+ datavolumeFBCDownlink:591264 
+ timeOfReport:2015-07-09 11:19:33 +06:00 
+ rATType:- 
+ failureHandlingContinue:- 
+ serviceIdentifier:- 
+ pSFurnishChargingInformation:- 
+ aFRecordInformation:- 
+ userLocationInformation:- 
+ eventBasedChargingInformation:- 
+ timeQuotaMechanism:- 
+ serviceSpecificInfo:- 
+ threeGPP2UserLocationInformation:-
+ servingNodeType 
+ :sGSN
+ servedMNNAI = - 
+ pGWPLMNIdentifier = 40107 
+ startTime = 2015-07-09 09:19:33 +06:00 
+ stopTime = - 
+ served3gpp2MEID = - 
+ pDNConnectionChargingID = 2638699422 
+ iMSIunauthenticatedFlag = - 
+ userCSGInformation = - 
+ threeGPP2UserLocationInformation = - 
+ servedPDPPDNAddressExt = - 
+ dynamicAddressFlagExt = -
+ The sequence of current record: 17 
+ recordType = pGWRecord 
+ servedIMSI 
+ number:401071110045366
+ pGWAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.78.12
+ chargingID = 2315603362 
+ servingNodeAddress 
+ 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.5
+ accessPointNameNI = internetstatic 
+ pdpPDNType = 0x01 21 
+ servedPDPPDNAddress 
+ iPAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.68.33
+ dynamicAddressFlag = FALSE 
+ listOfTrafficVolumes 
+ 
+ qosRequested:- 
+ qosNegotiated:- 
+ dataVolumeGPRSUplink:1230 
+ dataVolumeGPRSDownlink:1230 
+ changeCondition:recordClosure 
+ changeTime:2015-07-09 15:28:34 +06:00 
+ failureHandlingContinue:- 
+ userLocationInformation:- 
+ ePCQoSInformation 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ recordOpeningTime = 2015-07-09 15:28:27 +06:00 
+ duration = 7 
+ causeForRecClosing = normalRelease 
+ diagnostics 
+ manufacturerSpecificCause:1
+ recordSequenceNumber = - 
+ nodeID = ALUGW01 
+ recordExtensions = - 
+ localSequenceNumber = 1826432419 
+ apnSelectionMode = mSorNetworkProvidedSubscriptionVerified 
+
+ servedMSISDN 
+ number:77086350003
+ chargingCharacteristics = Normal billing 
+ chChSelectionMode = servingNodeSupplied 
+ iMSsignalingContext = - 
+ externalChargingID = - 
+ servingNodePLMNIdentifier = 40107 
+ pSFurnishChargingInformation = - 
+ servedIMEISV 
+ number:3536270450029835
+ rATType = 2 
+ mSTimeZone = GMT+06:00,NO DST 
+ userLocationInformation = 0x00 04 F1 70 04 51 07 D2 
+ cAMELChargingInformation = - 
+ listOfServiceData 
+ 
+ ratingGroup:100 
+ chargingRuleBaseName:- 
+ resultCode:- 
+ localSequenceNumber:1 
+ timeOfFirstUsage:2015-07-09 15:28:29 +06:00 
+ timeOfLastUsage:2015-07-09 15:28:33 +06:00 
+ timeUsage:4 
+ serviceConditionChange:pDPContextRelease 
+ qoSInformationNeg 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ sgsnAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.5
+ sGSNPLMNIdentifier:- 
+ datavolumeFBCUplink:1230 
+ datavolumeFBCDownlink:1230 
+ timeOfReport:2015-07-09 15:28:34 +06:00 
+ rATType:- 
+ failureHandlingContinue:- 
+ serviceIdentifier:- 
+ pSFurnishChargingInformation:- 
+ aFRecordInformation:- 
+ userLocationInformation:- 
+ eventBasedChargingInformation:- 
+ timeQuotaMechanism:- 
+ serviceSpecificInfo:- 
+ threeGPP2UserLocationInformation:-
+ servingNodeType 
+ :sGSN
+ servedMNNAI = - 
+ pGWPLMNIdentifier = 40107 
+ startTime = 2015-07-09 15:28:27 +06:00 
+ stopTime = 2015-07-09 15:28:34 +06:00 
+ served3gpp2MEID = - 
+ pDNConnectionChargingID = 2315603362 
+ iMSIunauthenticatedFlag = - 
+ userCSGInformation = - 
+ threeGPP2UserLocationInformation = - 
+ servedPDPPDNAddressExt = - 
+ dynamicAddressFlagExt = -
+ The sequence of current record: 18 
+ recordType = pGWRecord 
+ servedIMSI 
+ number:401071110045366
+ pGWAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.74.31
+ chargingID = 159869580 
+ servingNodeAddress 
+ 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.6
+ accessPointNameNI = internetstatic 
+ pdpPDNType = 0x01 21 
+ servedPDPPDNAddress 
+ iPAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.68.33
+ dynamicAddressFlag = FALSE 
+ listOfTrafficVolumes 
+ 
+ qosRequested:- 
+ qosNegotiated:- 
+ dataVolumeGPRSUplink:656 
+ dataVolumeGPRSDownlink:656 
+ changeCondition:recordClosure 
+ changeTime:2015-07-09 15:29:55 +06:00 
+ failureHandlingContinue:- 
+ userLocationInformation:- 
+ ePCQoSInformation 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ recordOpeningTime = 2015-07-09 15:29:49 +06:00 
+ duration = 6 
+ causeForRecClosing = normalRelease 
+ diagnostics 
+ manufacturerSpecificCause:1
+ recordSequenceNumber = - 
+ nodeID = ALUGW01 
+ recordExtensions = - 
+ localSequenceNumber = 2757852257 
+ apnSelectionMode = mSorNetworkProvidedSubscriptionVerified 
+
+ servedMSISDN 
+ number:77086350003
+ chargingCharacteristics = Normal billing 
+ chChSelectionMode = servingNodeSupplied 
+ iMSsignalingContext = - 
+ externalChargingID = - 
+ servingNodePLMNIdentifier = 40107 
+ pSFurnishChargingInformation = - 
+ servedIMEISV 
+ number:3536270450029835
+ rATType = 2 
+ mSTimeZone = GMT+06:00,NO DST 
+ userLocationInformation = 0x00 04 F1 70 04 51 07 D2 
+ cAMELChargingInformation = - 
+ listOfServiceData 
+ 
+ ratingGroup:100 
+ chargingRuleBaseName:- 
+ resultCode:- 
+ localSequenceNumber:1 
+ timeOfFirstUsage:2015-07-09 15:29:50 +06:00 
+ timeOfLastUsage:2015-07-09 15:29:53 +06:00 
+ timeUsage:3 
+ serviceConditionChange:pDPContextRelease 
+ qoSInformationNeg 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ sgsnAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.6
+ sGSNPLMNIdentifier:- 
+ datavolumeFBCUplink:656 
+ datavolumeFBCDownlink:656 
+ timeOfReport:2015-07-09 15:29:55 +06:00 
+ rATType:- 
+ failureHandlingContinue:- 
+ serviceIdentifier:- 
+ pSFurnishChargingInformation:- 
+ aFRecordInformation:- 
+ userLocationInformation:- 
+ eventBasedChargingInformation:- 
+ timeQuotaMechanism:- 
+ serviceSpecificInfo:- 
+ threeGPP2UserLocationInformation:-
+ servingNodeType 
+ :sGSN
+ servedMNNAI = - 
+ pGWPLMNIdentifier = 40107 
+ startTime = 2015-07-09 15:29:49 +06:00 
+ stopTime = 2015-07-09 15:29:55 +06:00 
+ served3gpp2MEID = - 
+ pDNConnectionChargingID = 159869580 
+ iMSIunauthenticatedFlag = - 
+ userCSGInformation = - 
+ threeGPP2UserLocationInformation = - 
+ servedPDPPDNAddressExt = - 
+ dynamicAddressFlagExt = -
+ The sequence of current record: 19 
+ recordType = pGWRecord 
+ servedIMSI 
+ number:401071110045366
+ pGWAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.78.12
+ chargingID = 2575650292 
+ servingNodeAddress 
+ 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.6
+ accessPointNameNI = internetstatic 
+ pdpPDNType = 0x01 21 
+ servedPDPPDNAddress 
+ iPAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.68.33
+ dynamicAddressFlag = FALSE 
+ listOfTrafficVolumes 
+ 
+ qosRequested:- 
+ qosNegotiated:- 
+ dataVolumeGPRSUplink:656 
+ dataVolumeGPRSDownlink:656 
+ changeCondition:recordClosure 
+ changeTime:2015-07-09 15:30:05 +06:00 
+ failureHandlingContinue:- 
+ userLocationInformation:- 
+ ePCQoSInformation 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ recordOpeningTime = 2015-07-09 15:30:00 +06:00 
+ duration = 5 
+ causeForRecClosing = normalRelease 
+ diagnostics 
+ manufacturerSpecificCause:1
+ recordSequenceNumber = - 
+ nodeID = ALUGW01 
+ recordExtensions = - 
+ localSequenceNumber = 1826436346 
+ apnSelectionMode = mSorNetworkProvidedSubscriptionVerified 
+
+ servedMSISDN 
+ number:77086350003
+ chargingCharacteristics = Normal billing 
+ chChSelectionMode = servingNodeSupplied 
+ iMSsignalingContext = - 
+ externalChargingID = - 
+ servingNodePLMNIdentifier = 40107 
+ pSFurnishChargingInformation = - 
+ servedIMEISV 
+ number:3536270450029835
+ rATType = 2 
+ mSTimeZone = GMT+06:00,NO DST 
+ userLocationInformation = 0x00 04 F1 70 04 51 07 D2 
+ cAMELChargingInformation = - 
+ listOfServiceData 
+ 
+ ratingGroup:100 
+ chargingRuleBaseName:- 
+ resultCode:- 
+ localSequenceNumber:1 
+ timeOfFirstUsage:2015-07-09 15:30:01 +06:00 
+ timeOfLastUsage:2015-07-09 15:30:04 +06:00 
+ timeUsage:3 
+ serviceConditionChange:pDPContextRelease 
+ qoSInformationNeg 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ sgsnAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.6
+ sGSNPLMNIdentifier:- 
+ datavolumeFBCUplink:656 
+ datavolumeFBCDownlink:656 
+ timeOfReport:2015-07-09 15:30:05 +06:00 
+ rATType:- 
+ failureHandlingContinue:- 
+ serviceIdentifier:- 
+ pSFurnishChargingInformation:- 
+ aFRecordInformation:- 
+ userLocationInformation:- 
+ eventBasedChargingInformation:- 
+ timeQuotaMechanism:- 
+ serviceSpecificInfo:- 
+ threeGPP2UserLocationInformation:-
+ servingNodeType 
+ :sGSN
+ servedMNNAI = - 
+ pGWPLMNIdentifier = 40107 
+ startTime = 2015-07-09 15:30:00 +06:00 
+ stopTime = 2015-07-09 15:30:05 +06:00 
+ served3gpp2MEID = - 
+ pDNConnectionChargingID = 2575650292 
+ iMSIunauthenticatedFlag = - 
+ userCSGInformation = - 
+ threeGPP2UserLocationInformation = - 
+ servedPDPPDNAddressExt = - 
+ dynamicAddressFlagExt = -
+ The sequence of current record: 20 
+ recordType = pGWRecord 
+ servedIMSI 
+ number:401071110045366
+ pGWAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.74.30
+ chargingID = 2437386128 
+ servingNodeAddress 
+ 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.6
+ accessPointNameNI = internetstatic 
+ pdpPDNType = 0x01 21 
+ servedPDPPDNAddress 
+ iPAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.68.33
+ dynamicAddressFlag = FALSE 
+ listOfTrafficVolumes 
+ 
+ qosRequested:- 
+ qosNegotiated:- 
+ dataVolumeGPRSUplink:656 
+ dataVolumeGPRSDownlink:656 
+ changeCondition:recordClosure 
+ changeTime:2015-07-09 15:30:15 +06:00 
+ failureHandlingContinue:- 
+ userLocationInformation:- 
+ ePCQoSInformation 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ recordOpeningTime = 2015-07-09 15:30:10 +06:00 
+ duration = 5 
+ causeForRecClosing = normalRelease 
+ diagnostics 
+ manufacturerSpecificCause:1
+ recordSequenceNumber = - 
+ nodeID = ALUGW01 
+ recordExtensions = - 
+ localSequenceNumber = 2621262919 
+ apnSelectionMode = mSorNetworkProvidedSubscriptionVerified 
+
+ servedMSISDN 
+ number:77086350003
+ chargingCharacteristics = Normal billing 
+ chChSelectionMode = servingNodeSupplied 
+ iMSsignalingContext = - 
+ externalChargingID = - 
+ servingNodePLMNIdentifier = 40107 
+ pSFurnishChargingInformation = - 
+ servedIMEISV 
+ number:3536270450029835
+ rATType = 2 
+ mSTimeZone = GMT+06:00,NO DST 
+ userLocationInformation = 0x00 04 F1 70 04 51 07 D2 
+ cAMELChargingInformation = - 
+ listOfServiceData 
+ 
+ ratingGroup:100 
+ chargingRuleBaseName:- 
+ resultCode:- 
+ localSequenceNumber:1 
+ timeOfFirstUsage:2015-07-09 15:30:12 +06:00 
+ timeOfLastUsage:2015-07-09 15:30:14 +06:00 
+ timeUsage:2 
+ serviceConditionChange:pDPContextRelease 
+ qoSInformationNeg 
+ qCI:7 
+ maxRequestedBandwithUL:- 
+ maxRequestedBandwithDL:- 
+ guaranteedBitrateUL:- 
+ guaranteedBitrateDL:- 
+ aRP:88 
+ aPNAggregateMaxBitrateUL:- 
+ aPNAggregateMaxBitrateDL:-
+ sgsnAddress 
+ iPBinaryAddress 
+ iPBinV4Address:217.76.77.6
+ sGSNPLMNIdentifier:- 
+ datavolumeFBCUplink:656 
+ datavolumeFBCDownlink:656 
+ timeOfReport:2015-07-09 15:30:15 +06:00 
+ rATType:- 
+ failureHandlingContinue:- 
+ serviceIdentifier:- 
+ pSFurnishChargingInformation:- 
+ aFRecordInformation:- 
+ userLocationInformation:- 
+ eventBasedChargingInformation:- 
+ timeQuotaMechanism:- 
+ serviceSpecificInfo:- 
+ threeGPP2UserLocationInformation:-
+ servingNodeType 
+ :sGSN
+ servedMNNAI = - 
+ pGWPLMNIdentifier = 40107 
+ startTime = 2015-07-09 15:30:10 +06:00 
+ stopTime = 2015-07-09 15:30:15 +06:00 
+ served3gpp2MEID = - 
+ pDNConnectionChargingID = 2437386128 
+ iMSIunauthenticatedFlag = - 
+ userCSGInformation = - 
+ threeGPP2UserLocationInformation = - 
+ servedPDPPDNAddressExt = - 
+ dynamicAddressFlagExt = -
