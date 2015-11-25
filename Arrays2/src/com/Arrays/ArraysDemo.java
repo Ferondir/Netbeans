@@ -11,20 +11,42 @@ public class ArraysDemo {
     public static void main(String[] args) {
      
         int[] ar = new int[10];
-        Arrays.fillArray(ar);
-        Arrays.printArray(ar);
         
-        Arrays.reverseArray(ar);
-        Arrays.printArray(ar);
+        System.out.println("\nFILL");
+        Arrays.arrayFillManual(ar); //auto fill: Arrays.arryFill(ar);
+        Arrays.arrayPrint(ar);
+        System.out.println("_____________");
         
-        Arrays.sortArrayBubble(ar);
-        Arrays.printArray(ar);
+        System.out.println("\nREVERSE");
+        Arrays.arrayReverse(ar);
+        Arrays.arrayPrint(ar);
+        System.out.println("_____________");
         
-        Arrays.fillArray(ar);
-        Arrays.printArray(ar);
+        System.out.println("\nSHUFFLE");
+        Arrays.arrayShuffle(ar);
+        Arrays.arrayPrint(ar);
+        System.out.println("_____________");
         
-        Arrays.sortArraySelection(ar);
-        Arrays.printArray(ar);
+        System.out.println("\nBUBBLE SORT");
+        Arrays.arrayShuffle(ar);
+        Arrays.arrayPrint(ar);
+        Arrays.arraySortBubble(ar);
+        Arrays.arrayPrint(ar);
+        System.out.println("_____________");
+        
+        System.out.println("\nSELECTION SORT");
+        Arrays.arrayShuffle(ar);
+        Arrays.arrayPrint(ar);
+        Arrays.arraySortSelection(ar);
+        Arrays.arrayPrint(ar);
+        System.out.println("_____________");
+        
+        System.out.println("\nINSERTION SORT");
+        Arrays.arrayShuffle(ar);
+        Arrays.arrayPrint(ar);
+        Arrays.arraySortInsertion(ar);
+        Arrays.arrayPrint(ar);
+        System.out.println("_____________");
     }
 }
     
