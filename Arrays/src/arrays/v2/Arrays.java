@@ -135,6 +135,8 @@ public class Arrays {
                 
                 this_min++;
                 this_max--;
+                
+                arrayPrint(array);
             }
             
         }while(this_min <= this_max);

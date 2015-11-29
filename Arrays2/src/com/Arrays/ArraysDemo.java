@@ -10,10 +10,11 @@ import java.util.Random;
 public class ArraysDemo {
     public static void main(String[] args) {
      
-        int[] ar = new int[10];
+        int[] ar = new int[6];
         
         System.out.println("\nFILL");
-        Arrays.arrayFillManual(ar); //auto fill: Arrays.arryFill(ar);
+//        Arrays.arrayFillManual(ar);
+        Arrays.arrayFill(ar);
         Arrays.arrayPrint(ar);
         System.out.println("_____________");
         
@@ -47,6 +48,14 @@ public class ArraysDemo {
         Arrays.arraySortInsertion(ar);
         Arrays.arrayPrint(ar);
         System.out.println("_____________");
+        
+        System.out.println("\nFAST SORT");
+        Arrays.arrayShuffle(ar);
+        Arrays.arrayPrint(ar);
+        Arrays.arraySortFast(ar);
+        Arrays.arrayPrint(ar);
+        System.out.println("_____________");
+        
     }
 }
     

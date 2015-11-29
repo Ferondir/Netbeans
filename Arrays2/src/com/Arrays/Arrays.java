@@ -14,6 +14,9 @@ import java.util.Scanner;
  * @author mypc
  */
 public class Arrays {
+    
+    static int num = 0;
+    
     public static void arrayPrint(int[] array){
         for(int e : array){
             System.out.print(e + " ");
@@ -32,11 +35,23 @@ public class Arrays {
     }
     
     public static int[] arrayFillManual(int[] array){
-        Scanner in = new Scanner(System.in);
-        
+
         for(int i=0;i<array.length;i++){
-            System.out.print("Enter " + i + " element:");
-            array[i] = in.nextInt();
+            
+            
+            boolean error = true;
+            
+            do{
+                try {
+                    Scanner in = new Scanner(System.in);
+                    System.out.print("Enter " + i + " element:");
+                    array[i] = in.nextInt();
+                    error = false;
+                } catch (Exception e) {
+                    System.out.println("NOT INT");
+                }    
+            } while (error);
+             
         }
         
         return(array);
@@ -48,7 +63,7 @@ public class Arrays {
         
         for (int i = 0; i < array.length; i++) {
             
-            int tmp_i = r.nextInt(10);        
+            int tmp_i = r.nextInt(array.length);        
             int tmp = array[i];
             array[i] = array[tmp_i];
             array[tmp_i] = tmp;
@@ -123,8 +138,44 @@ public class Arrays {
         
         return(array);
     }
-
-    private static Scanner Scanner(InputStream in) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    
+    public static int[] arraySortFast(int[] array){
+        
+        arraySortFast(array,0,array.length-1);
+        
+        return(array);
     }
+    
+    private static void arraySortFast(int[] array, int First, int Last){
+        System.out.println(++num);
+        
+        int first = First;
+        int last = Last;
+        int middleElement = array[first + (last-first)/2];
+        System.out.println("mid " + middleElement + " f:" + first + " l:"+last); 
+        
+        do{
+            while(array[first] < middleElement) first++;
+            while(array[last] > middleElement) last--;
+            
+            if(first <= last){
+                int tmp = array[first];
+                array[first] = array[last];
+                array[last] = tmp;
+                
+                first++;
+                last--;
+                
+                //System.out.print("* f:" + first + " l:" + last + " | " );
+                arrayPrint(array);
+            }
+        }while(first <= last);
+        
+        System.out.println("mid " + middleElement + " f:" + first + " l:"+last);
+        
+        if(First < last){arraySortFast(array,First,last);};
+        if(first < Last){arraySortFast(array,first,Last);};
+        
+    }
+
 }
